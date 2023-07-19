@@ -1,0 +1,19 @@
+password: 4wT3rjZ2ZuLF8W6h
+url: 
+mongodb+srv://root:4wT3rjZ2ZuLF8W6h@cluster0.awvlw45.mongodb.net/asm3
+
+///////////
+
+BE Url 
+https://mobileshop-server.glitch.me
+
+//FE admin
+
+https://mobile-shop-admin.netlify.app/
+
+//FE client
+
+https://mobile-shop-client.netlify.app/
+
+// Hiện tại đang chạy dự án trên local host, có comment sẵn những vị trí cần thay đổi url để sử dụng backend đã deploy
+
